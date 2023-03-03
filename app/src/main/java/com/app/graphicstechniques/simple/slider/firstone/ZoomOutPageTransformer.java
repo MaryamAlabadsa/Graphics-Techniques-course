@@ -1,4 +1,4 @@
-package com.app.graphicstechniques.simple.slider;
+package com.app.graphicstechniques.simple.slider.firstone;
 
 import android.view.View;
 

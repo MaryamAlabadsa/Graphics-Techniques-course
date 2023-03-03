@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ucas/odi/Graphics-Techniques-course/app/src/main/res/drawable/default_point_indicator.xml" value="0.176" />
+        <entry key="..\:/ucas/odi/Graphics-Techniques-course/app/src/main/res/drawable/point_indicator.xml" value="0.176" />
+        <entry key="..\:/ucas/odi/Graphics-Techniques-course/app/src/main/res/drawable/selected_point_indicator.xml" value="0.176" />
+        <entry key="..\:/ucas/odi/Graphics-Techniques-course/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/ucas/odi/Graphics-Techniques-course/app/src/main/res/layout/activity_main2.xml" value="0.22826086956521738" />
         <entry key="..\:/ucas/odi/Graphics-Techniques-course/app/src/main/res/layout/slider_item.xml" value="0.22826086956521738" />
       </map>
     </option>

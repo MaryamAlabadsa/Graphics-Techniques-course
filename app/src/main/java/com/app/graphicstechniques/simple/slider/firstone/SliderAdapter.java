@@ -1,4 +1,4 @@
-package com.app.graphicstechniques.simple.slider;
+package com.app.graphicstechniques.simple.slider.firstone;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.a.myapplication.R;
+import com.app.graphicstechniques.R;
 import com.facebook.drawee.backends.pipeline.Fresco;
 import com.facebook.drawee.drawable.ProgressBarDrawable;
 import com.facebook.drawee.drawable.ScalingUtils;
